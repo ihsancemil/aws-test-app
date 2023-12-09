@@ -21,6 +21,7 @@ export default function Home() {
           priority
         />
         <span>+</span>
+        <h1>Zülal Akkan♥İhsan Cemil Çiçek</h1>
         <Image
           src="/amplify.svg"
           alt="Amplify Logo"
